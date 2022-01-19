@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/juanarede/reactmovie/static/css/main.12242609.chunk.css",
+    "main.js": "/juanarede/reactmovie/static/js/main.c5274b08.chunk.js",
+    "main.js.map": "/juanarede/reactmovie/static/js/main.c5274b08.chunk.js.map",
+    "runtime-main.js": "/juanarede/reactmovie/static/js/runtime-main.cd7997c5.js",
+    "runtime-main.js.map": "/juanarede/reactmovie/static/js/runtime-main.cd7997c5.js.map",
+    "static/js/2.63ba3c5e.chunk.js": "/juanarede/reactmovie/static/js/2.63ba3c5e.chunk.js",
+    "static/js/2.63ba3c5e.chunk.js.map": "/juanarede/reactmovie/static/js/2.63ba3c5e.chunk.js.map",
+    "static/js/3.a4d83786.chunk.js": "/juanarede/reactmovie/static/js/3.a4d83786.chunk.js",
+    "static/js/3.a4d83786.chunk.js.map": "/juanarede/reactmovie/static/js/3.a4d83786.chunk.js.map",
+    "index.html": "/juanarede/reactmovie/index.html",
+    "static/css/main.12242609.chunk.css.map": "/juanarede/reactmovie/static/css/main.12242609.chunk.css.map",
+    "static/js/2.63ba3c5e.chunk.js.LICENSE.txt": "/juanarede/reactmovie/static/js/2.63ba3c5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7997c5.js",
+    "static/js/2.63ba3c5e.chunk.js",
+    "static/css/main.12242609.chunk.css",
+    "static/js/main.c5274b08.chunk.js"
+  ]
+}
